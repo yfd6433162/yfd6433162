@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**yfd6433162/yfd6433162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **yfd6433162**, an R&D Engineer specializing in **Hyperspectral Imaging** and **FPGA Design**.
 
-Here are some ideas to get you started:
+## 🔬 Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 **8+ years** of spectroscopy experience
+- 📸 **5+ years** of hyperspectral imaging (Python, TensorFlow, PyTorch)
+- 🔧 **5+ years** of FPGA design (Intel FPGA, Verilog, HLS)
+- 📚 Technical book author (**100+ copies sold**)
+- 🌍 Currently on overseas assignment in **Germany**
+
+## 📚 Publications
+
+### "はじめてのSoC FPGA"
+Intel FPGA-based image processing implementation guide
+- 💯 100+ copies sold
+- 🛒 Available on [Booth](https://booth.pm/items/1577936)
+
+## 🚀 Current Project
+
+**Hyperspectral Image Classification with FPGA Acceleration**
+
+Developing real-time hyperspectral image classification system combining:
+- Python (Machine Learning)
+- FPGA HLS (Hardware Acceleration)
+
+📂 [View Project](https://github.com/yfd6433162/hyperspectral-fpga-acceleration)
+
+## 🌐 Portfolio
+
+🔗 [yfd6433162.github.io/portfolio](https://yfd6433162.github.io/portfolio/)
+
+## 📫 Contact
+
+- GitHub: [@yfd6433162](https://github.com/yfd6433162)
+- Book: [Booth](https://booth.pm/items/1577936)

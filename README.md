@@ -15,7 +15,7 @@ I'm **yfd6433162**, an R&D Engineer specializing in **Hyperspectral Imaging** an
 ### "はじめてのSoC FPGA"
 Intel FPGA-based image processing implementation guide
 - 💯 100+ copies sold
-- 🛒 Available on [Booth](https://booth.pm/jp/items/1577936)
+- 🛒 Available on [Booth](https://booth.pm/ja/items/1577936)
 
 ## 🚀 Current Project
 
@@ -34,4 +34,4 @@ Developing real-time hyperspectral image classification system combining:
 ## 📫 Contact
 
 - GitHub: [@yfd6433162](https://github.com/yfd6433162)
-- Book: [Booth](https://booth.pm/jp/items/1577936)
+- Book: [Booth](https://booth.pm/ja/items/1577936)
